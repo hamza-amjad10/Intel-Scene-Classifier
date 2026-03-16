@@ -161,3 +161,8 @@ numpy
 
 - Dataset by [puneet6060](https://www.kaggle.com/puneet6060) on Kaggle
 - ResNet50 via [Keras Applications](https://keras.io/api/applications/resnet/)
+
+
+  ## 👨‍💻 Author
+
+Made with ❤️ by **Hamza Amjad**
