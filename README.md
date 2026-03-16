@@ -163,6 +163,6 @@ numpy
 - ResNet50 via [Keras Applications](https://keras.io/api/applications/resnet/)
 
 
-  ## 👨‍💻 Author
+## 👨‍💻 Author
 
 Made with ❤️ by **Hamza Amjad**
