@@ -63,7 +63,6 @@ Dense(6, softmax)
 CNN_Inet/
 ├── Intel_model_code.ipynb   # Training notebook (Colab)
 ├── requirements.txt         # Dependencies
-├── model/                   # Saved model directory
 └── web_app/
     ├── backend.py           # FastAPI app
     └── frontend.py          # Streamlit app
